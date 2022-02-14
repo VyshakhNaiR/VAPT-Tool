@@ -37,7 +37,7 @@ if stuck or want to know more about these tools, below are the documentations
 
 [NetDiscover](https://manpages.debian.org/unstable/netdiscover/netdiscover.8.en.html) <br/>
 [Nmap](https://linux.die.net/man/1/nmap)<br/>
-[ssh](https://www.openssh.com/manual.html)
+[ssh](https://www.openssh.com/manual.html)<br/>
 [Hydra](https://www.hackingarticles.in/comprehensive-guide-on-hydra-a-brute-forcing-tool/)<br/>
 [gobuster](https://github.com/OJ/gobuster)<br/>
 [Dirbuster](https://www.kali.org/tools/dirbuster/)<br/>
@@ -56,7 +56,7 @@ For Installation of the tool a Setup.sh script is also added to the repo:
 >Important- There maybe issues while installing the packages or tools in other distros because the package or tool maynot be available for that particular distro. 
 >If it happens, go online for any fixes or other ways to install it
 
-Installation Procedure: 
+Installation and Initializing Procedure: 
 
 ```
 git clone https://github.com/VyshakhNaiR/VAPT-Tool.git
