@@ -9,7 +9,7 @@ Language : Bash Script {100%}
 The script contains the required tools which is much comes handy when exploiting or gathering info about a machine.
 The tool invokes the pre-installed tool and asks user for options for the tool they use as they preferred.
 
-> _Note::: THE PROGRAM SHOULD RUN IN AS <$_ROOT> as some tools needs root privileges to execute._
+> _Note::: THE PROGRAM SHOULD RUN IN AS <$_ROOT> as some tools needs root privileges to execute.
 
 ```
 Tools used:
@@ -34,7 +34,7 @@ For the convinient use the script invokes the tools in a seperate terminal > x-t
 for keeping it clean and easily visible. 
 
 if stuck or want to know more about these tools, below are the documentations 
-```
+
 [NetDiscover](https://manpages.debian.org/unstable/netdiscover/netdiscover.8.en.html)
 [Nmap](https://linux.die.net/man/1/nmap)
 [ssh](https://www.openssh.com/manual.html)
@@ -52,6 +52,6 @@ if stuck or want to know more about these tools, below are the documentations
 [smbclient](https://www.samba.org/samba/docs/current/man-html/smbclient.1.html)
 [Whatweb](https://www.kali.org/tools/whatweb/)
 
-```
+
 
 
