@@ -52,6 +52,28 @@ if stuck or want to know more about these tools, below are the documentations
 [smbclient](https://www.samba.org/samba/docs/current/man-html/smbclient.1.html)<br/>
 [Whatweb](https://www.kali.org/tools/whatweb/)
 
+For Installation of the tool a Setup.sh script is also added to the repo:
+'Important- There maybe issues while installing the packages or tools in other distros because the package or tool maynot be available for that particular distro. 
+If it happens, go online for any fixes or other ways to install it'
+
+Installation Procedure: 
+
+```
+git clone https://github.com/VyshakhNaiR/VAPT-Tool.git
+
+cd ~/VAPT-Tool
+
+chmod +x Setup.sh
+
+sudo ./Setup.sh
+
+chmod + Footholder.sh
+
+./Footholder.sh
+
+```
+
+
 
 
 
