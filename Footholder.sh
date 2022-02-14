@@ -210,7 +210,7 @@ function mysql() {
 			read -p "username: " $user
 			echo -e "\n\nInitiating mysql....\n"
         		sleep 3s
-        		xterm -hold -e mysql -u $user -p
+        		xterm -hold -e mysql -h $IP -u $user -p
         		echo "Exiting...."
         		printf '\U2620\n'
         		sleep 3s
@@ -341,7 +341,7 @@ $(ColorGreen '9)') enum4linux
 $(ColorGreen '10)') Nikto
 $(ColorGreen '11)') Searchsploit
 $(ColorGreen '12)') Metasploit
-$(ColorGreen '13)') Smblcient
+$(ColorGreen '13)') Smbclient
 $(ColorGreen '14)') Whatweb
 $(ColorGreen '0)') Exit
 $(ColorBlue 'Choose an option:') "
@@ -371,8 +371,7 @@ menu
 
 sleep 3s
 echo "$(toilet --filter metal Thank You )"
-echo -e "\n$(figlet and )"
-echo -e "\n$(toilet --filter metal GoodBye!!)"
+
 
 
 
