@@ -9,8 +9,9 @@ Language : Bash Script {100%}
 The script contains the required tools which is much comes handy when exploiting or gathering info about a machine.
 The tool invokes the pre-installed tool and asks user for options for the tool they use as they preferred.
 
-~~~~Note::: THE PROGRAM SHOULD RUN IN AS <$_ROOT> as some tools needs root privileges to execute.~~~~
+Note::: THE PROGRAM SHOULD RUN IN AS <$_ROOT> as some tools needs root privileges to execute.
 
+```
 Tools used:
 1. NetDiscover
 2. Nmap
@@ -28,4 +29,5 @@ Tools used:
 14. metasploit
 15. smbclient
 16. whatweb
+```
 
