@@ -1,9 +1,6 @@
 # VAPT-Tool
-______          __   _   _      __    __
-|  ___|__   ___ | |_| | | | ___ | | __| | ___ _ __ 
-| |_ / _ \ / _ \| __| |_| |/ _ \| |/ _` |/ _ \ '__|
-|  _| (_) | (_) | |_|  _  | (_) | | (_| |  __/ |   
-|_|  \___/ \___/ \__|_| |_|\___/|_|\__,_|\___|_|  
+
+FOOTHOLDER
 
 Script made for users who are beginner and intermediate in Vulnerabilty Exploitation and Pentesting.
 
