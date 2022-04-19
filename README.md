@@ -28,7 +28,7 @@ Tools used:
 13. searchsploit
 14. metasploit
 15. smbclient
-16. whatweb
+16. Whatweb
 ```
 For the convinient use the script invokes the tools in a seperate terminal > x-term
 for keeping it clean and easily visible. 
@@ -69,7 +69,7 @@ sudo ./Setup.sh
 
 chmod + Footholder.sh
 
-./Footholder.sh
+sudo ./Footholder.sh
 
 ```
 
